@@ -4,6 +4,6 @@
 - [Seção 01 - Introdução](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_01_Introducao)
 - [Seção 02 - Preparação do Ambiente](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_02_Preparacao_do_Ambiente)
 - Seção 03 - Conhecendo o Airflow
-- Seção 04 - Criando Dags
+- [Seção 04 - Criando Dags](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_04_Criando_Dags)
 
 Link para o Curso: [Udemy](https://www.udemy.com/course/domine-apache-airflow/)
