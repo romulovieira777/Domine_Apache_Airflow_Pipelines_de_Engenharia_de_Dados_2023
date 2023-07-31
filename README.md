@@ -9,5 +9,6 @@
 - [Seção 06 - Providers, Hooks e Banco de Dados](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_06_Providers_Hooks_e_Banco_de_Dados)
 - [Seção 07 - Conhecendo a CLI](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_07_Conhecendo_a_Cli)
 - [Seção 08 - Executor e Configurações](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_08_Executor_e_Configuracoes)
+- [Seção 09 - Criando Plugins](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_09_Criando_Plugins)
 
 Link para o Curso: [Udemy](https://www.udemy.com/course/domine-apache-airflow/)
