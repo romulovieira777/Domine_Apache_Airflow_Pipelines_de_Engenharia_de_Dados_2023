@@ -11,5 +11,6 @@
 - [Seção 08 - Executor e Configurações](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_08_Executor_e_Configuracoes)
 - [Seção 09 - Criando Plugins](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_09_Criando_Plugins)
 - [Seção 10 - Projeto Final](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_10_Projeto_Final)
+- [Seção 11 - Conteúdo Extra](https://github.com/romulovieira777/Domine_Apache_Airflow_Pipelines_de_Engenharia_de_Dados_2023/tree/main/Secao_11_Conteudo_Extra)
 
 Link para o Curso: [Udemy](https://www.udemy.com/course/domine-apache-airflow/)
